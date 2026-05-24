@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "Milky Adapter 适配器",
+  "description": "Milky 协议适配器，提供与 Milky 协议端的连接功能。",
+  "author": {
+    "name": "LuoRogers",
+    "url": "https://github.com/LuoRogers"
+  },
+  "license": "GPL-v3.0-or-later",
+  "urls": {
+    "repository": "https://github.com/LuoRogers/MaiBot-Milky-Adapter",
+    "homepage": "https://github.com/LuoRogers/MaiBot-Milky-Adapter",
+    "documentation": "https://github.com/LuoRogers/MaiBot-Milky-Adapter",
+    "issues": "https://github.com/LuoRogers/MaiBot-Milky-Adapter/issues"
+  },
+  "host_application": {
+    "min_version": "1.0.0",
+    "max_version": "1.0.0"
+  },
+  "sdk": {
+    "min_version": "2.0.0",
+    "max_version": "2.99.99"
+  },
+  "dependencies": [],
+  "capabilities": [],
+  "i18n": {
+    "default_locale": "zh-CN",
+    "supported_locales": [
+      "zh-CN",
+      "en-US"
+    ]
+  },
+  "id": "luorogers.milky-adapter"
+}
