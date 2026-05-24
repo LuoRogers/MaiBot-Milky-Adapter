@@ -2,6 +2,16 @@
 
 MaiBot 的 [Milky 协议](https://github.com/SaltifyDev/milky) 适配器插件，用于连接支持 Milky 协议的 QQ 协议端（如 LagrangeV2、Acidify 等）。
 
+> 本项目由 vibe_coding 完成，如有问题请提交 [Issue](https://github.com/LuoRogers/MaiBot-Milky-Adapter/issues)。
+
+## 免责声明
+
+1. 本项目为第三方社区插件，非 MaiBot 官方插件，与 MaiBot 开发团队无关。
+2. 本项目按「现状」提供，不作任何明示或暗示的担保，包括但不限于对适配性、正确性、安全性、稳定性的保证。
+3. 使用本插件产生的一切后果由使用者自行承担，作者不对因使用本插件导致的任何直接或间接损失负责。
+4. 使用者应自行确保其 QQ 账号的使用符合相关平台的服务条款和当地法律法规。
+5. 本项目不保证持续维护和更新，不保证与 MaiBot 或 Milky 协议的未来版本兼容。
+
 ## 简介
 
 MaiBot-Milky-Adapter 是一个第三方 MaiBot 插件，承担 QQ 平台消息网关职责：
@@ -231,7 +241,3 @@ MaiBot-Milky-Adapter/
 ## 许可证
 
 GPL-v3.0-or-later
-
----
-
-> 本项目由 vibe_coding 完成，如有问题请提交 [Issue](https://github.com/LuoRogers/MaiBot-Milky-Adapter/issues)。
