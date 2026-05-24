@@ -241,3 +241,12 @@ MaiBot-Milky-Adapter/
 ## 许可证
 
 GPL-v3.0-or-later
+
+## 鸣谢
+
+- [MaiBot](https://github.com/Mai-with-u/MaiBot) - 本项目所适配的 AI 聊天机器人框架
+- [MaiBot-Napcat-Adapter](https://github.com/Mai-with-u/MaiBot-Napcat-Adapter) - NapCat 适配器，本项目架构的主要参考
+- [Milky](https://github.com/SaltifyDev/milky) - Milky 协议规范及文档
+- [maim_message](https://github.com/Mai-with-u/maim_message) - MaiBot 消息接口库
+- [LagrangeV2](https://github.com/LagrangeDev/LagrangeV2) - 支持 Milky 协议的协议端实现
+- [Acidify](https://github.com/LagrangeDev/acidify) - 支持 Milky 协议的协议端实现
